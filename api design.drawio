@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T10:11:46.382Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6glBYvIzCE7K2goya6zb" version="22.1.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-22T10:13:00.947Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EYUNsF02bSCNevHy2D7G" version="22.1.11" type="github" pages="3">
   <diagram name="api调用框架" id="EQ1F0b58VZMD9m9aYOTj">
     <mxGraphModel dx="2261" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -385,10 +385,10 @@
           <mxGeometry x="140" y="240" width="540" height="210" as="geometry" />
         </mxCell>
         <mxCell id="dccRftJVkBhWSeohc8ir-2" value="api-call-sdk" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;align=left;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="168" y="488" width="490" height="213" as="geometry" />
+          <mxGeometry x="140" y="488" width="540" height="213" as="geometry" />
         </mxCell>
         <mxCell id="dccRftJVkBhWSeohc8ir-4" value="interface" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="198" y="518" width="440" height="70" as="geometry" />
+          <mxGeometry x="170" y="518" width="480" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dccRftJVkBhWSeohc8ir-5" value="AddBuilder" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="541" width="89" height="40" as="geometry" />
